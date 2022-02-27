@@ -1,0 +1,894 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A moderate answer vnto Dr. Bastvvicks book; called Independency not Gods ordinance. Wherein is declared the manner how some churches in this city were gathered, and upon what tearmes their members were admitted; that so both the Dr. and the reader may judge, how near some beleevers who walk together in the fellowship of the gospell, do come in their practice to these apostolicall rules which are propounded by the Dr. as Gods method in gethering churches and admitting members. / By Hanserd Knollys. Printed and published according to order. Imprimatur, Ja: Cranford.</title>
+            <author>Knollys, Hanserd, 1599?-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87820</idno>
+            <idno type="STC">Wing K717</idno>
+            <idno type="STC">Thomason E293_5</idno>
+            <idno type="STC">ESTC R200159</idno>
+            <idno type="EEBO-CITATION">99860964</idno>
+            <idno type="PROQUEST">99860964</idno>
+            <idno type="VID">113091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113091)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E293[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A moderate answer vnto Dr. Bastvvicks book; called Independency not Gods ordinance. Wherein is declared the manner how some churches in this city were gathered, and upon what tearmes their members were admitted; that so both the Dr. and the reader may judge, how near some beleevers who walk together in the fellowship of the gospell, do come in their practice to these apostolicall rules which are propounded by the Dr. as Gods method in gethering churches and admitting members. / By Hanserd Knollys. Printed and published according to order. Imprimatur, Ja: Cranford.</title>
+                  <author>Knollys, Hanserd, 1599?-1691.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iane Coe.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Bastwick, John. Independency not Gods ordinance (Wing B1063, B1069).</note>
+                  <note>Annotation on Thomason copy: "July 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bastwick, John, 1593-1654. --  Independency not Gods ordinance --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113091:1" rendition="simple:additions"/>
+            <p>A Moderate Anſwer VNTO Dr. BASTVVICKS BOOK; CALLED,
+<hi>Jndependency not Gods Ordinance.</hi> WHEREIN, Is declared the manner how
+ſome CHVRCHES in this City were gathered, and upon what tearmes their Members
+were admitted; That ſo both the Dr. and the Reader may judge, how near ſome
+Beleevers who walk together in the Fellowſhip of the Goſpell, do come in
+their practice to theſe Apoſtolicall rules which are propounded by the Dr.
+as Gods method in gathering Churches and admitting MEMBERS.</p>
+            <p>By HANSERD KNOLLYS.</p>
+            <p>
+               <hi>Printed and publiſhed according to Order.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>JA: CRANFORD.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by IANE COE. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113091:2"/>
+            <pb n="1" facs="tcp:113091:2"/>
+            <head>A Moderate ANSWER UNTO Dr. BASTWICKS Book; CALLED,
+<hi>Jndependencie not Gods Ordinance.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">P</seg>Aſſing by many things leſſe conſi<g ref="char:EOLhyphen"/>derable, becauſe I
+intend brevity; In the 7th. page of the Doctors booke, <hi>There is a twofold
+Queſtion betweene them called</hi> PRESBYTERIANS <hi>and their Brethren who
+are ter<g ref="char:EOLhyphen"/>med</hi> INDEPENDENTS; <hi>The firſt is, concerning the Go<g ref="char:EOLhyphen"/>vernment
+of the Church,</hi> viz. <hi>Whe<g ref="char:EOLhyphen"/>ther it be</hi> Presbyterian-Dependen,
+<hi>or</hi> Presbyterian-Independent? <hi>The ſe<g ref="char:EOLhyphen"/>cond Queſtion is,
+concerning the Gathering of</hi> CHURCHES.</p>
+            <p>
+               <pb facs="tcp:113091:3"/>Touching the former Queſtion concerning the
+Government of the Church, the Doctor acknowledgeth in the ſame 7th. page,
+<hi>that the Brethren on both ſides agree, that the Government of the church
+is a Preſbyterian-Government, both acknowledging a Preſby<g ref="char:EOLhyphen"/>terie.</hi> But
+whether it be Dependent, or Independent is the maine thing in the queſtion,
+which the Doctor doth determine, and ſaith in the Title page of his book he
+hath evidently Proved. '<hi>That the Preſbyterian-Government-Dependent is
+Gods Ordinance, and not the byterian-Government-Independent.</hi>
+            </p>
+            <p>I intend not to ſtrive with the Doctor about wordes, and
+there<g ref="char:EOLhyphen"/>fore touching the two Termes, to wit, Dependent, and Indepen<g ref="char:EOLhyphen"/>dent; I
+ſhall onely ſay this at preſent: That if by Independent the the Doctor
+indeede mean (as it doth appear ſo to my under<g ref="char:EOLhyphen"/>ſtanding by many
+paſſages in his booke, he doth intend) a Preſ<g ref="char:EOLhyphen"/>byterian-Government, which
+hath not Dependencie upon any in matters meerly Eccleſiaſticall (but upon
+the Lord Jeſus Chriſt, Who is the Head of the Church) And if by Dependent
+hee alſo indendeth (as in many other paſſages in his booke ſeemeth to
+me to be his meaning)<note place="margin">Pag. 8.10. Pag. 14.15.17.18.</note> a
+Presbyterian-Government, which hath a De<g ref="char:EOLhyphen"/>pendencie upon a ſupream Judicature
+of a Common-councell of Presbyters, and who muſt in matters
+Eccleſiaſticall be ſubiect un<g ref="char:EOLhyphen"/>to the Decrees, Sentences, Conſtitutions,
+and Commandments of a Common-councell, Colledge or Conſiſtorie of
+Claſſicall, Provin<g ref="char:EOLhyphen"/>ciall, or Synodicall Presbyters; Then I do conceive the
+Doctor hath not proved, (nor will he ever be able to prove) That the
+Presby<g ref="char:EOLhyphen"/>terian-Government-Dependent is Gods Ordinance; And I hope to make the
+contrary plainly appear both from cleere Texts of Scripture, and the Doctors
+owne bookes. And ſeeing that the Doctor hath in the 6th. p. of his Book
+deſired all his Chriſtan Bre<g ref="char:EOLhyphen"/>thren in the Deciding of this Queſtion to
+take the Word of God into their Hands, and with the Noble <hi>Bereans</hi> to
+ſit downe and examine, whatſoever ſhall be ſaid on either ſide
+according to the Scriptures: I willingly make the ſame requeſt, as moſt
+deſirous, that this ſhort Anſwere may abide the like triall, and be
+weighed in the other ballance of the Sanctuary againſt the Doctors Booke.</p>
+            <p>Now that all things may be handled in good order, and in a 
+<pb n="3" facs="tcp:113091:3"/>Methodicall way, the Doctor hath reduced the whole
+diſputation concerning this firſt Queſtion into four Propoſitions,
+page. 11. 
+<list>
+                  <item>The firſt, that there were many Congregations and
+ſeverall aſſem<g ref="char:EOLhyphen"/>blies of Beleevers in the church of Ieruſalem, in the
+which they enjoy<g ref="char:EOLhyphen"/>ed all acts of Worſhip, and all the Ordinances amongſt
+themſelves, and did partake of all acts of Church-fellowſhip, eſpecially
+of preaching, and in the Adminiſtration of the Sacraments, and prayer, and
+that before the Perſecution we reade of, Act. 8.2.</item>
+                  <item>The ſecond, That all theſe congregations, and
+ſeverall aſſemblies made but one church.</item>
+                  <item>The third, That the Apoſtles and Elders governed,
+ordered, and ruled this church joyntly, and by a Common-councell, and
+Prebſytery.</item>
+                  <item>The fourth, that this church of Ieruſalem, and the
+government of the ſame is to be a patterne for all ſeverall congregations
+and aſſemblies in any City or Vicinity to unite into one Church, and for
+the Officers of thoſe congregations to governe that Church joyntly in a
+Colledge or Preſbyterie.</item>
+               </list> Theſe are his four Propoſitions.</p>
+            <p>But before hee comes to the proof of theſe particulars hee
+ſaith it will not bee amiſſe in generall to take notice, <hi>That all the
+Churches we read of in the New Teſtament, were</hi> Ari<g ref="char:EOLhyphen"/>ſtocratically
+<hi>and</hi> Preſtbyterially <hi>governed, and were all Dependent upon their
+ſeverall</hi> Presbyters, <hi>and produceth divers places of Scrip<g ref="char:EOLhyphen"/>ture to
+prove the ſame,</hi> and two ſheets are ſpent wholly in proving thereof
+from the 12. page to the 29. All which (ſhould it bee granted) only proves.
+Firſt, That in every City or Church there was a Presbiterie, Acts. 14.23.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>cumque per ſuffragia
+ſtatuiſſent illis per ſingulas Ec<g ref="char:EOLhyphen"/>cleſias ſeniores,</hi> that is,
+When they had ordained them Elders in every Church by the Suffrage or
+ſtretching forth of Hands, alſo <hi>Ti<g ref="char:EOLhyphen"/>tus</hi> 1.5.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp; conſtituas oppidatim
+ſeni<g ref="char:EOLhyphen"/>ores,</hi> that is, And thou mayeſt Ordaine Elders towne by towne, or
+city by city, or village by village.</p>
+            <p>Secondly, that as there were Apoſtles and Elders in the Church
+of Jeruſalem, <hi>Act.</hi> 15.2,4. So there were Elders in the Church of
+Epheſus, <hi>Act.</hi> 20.17,28. And in the Church of Corinth, and in the
+Church of Galatia, and in Philippie, &amp;c.</p>
+            <p>Thirdly, that theſe ſeverall Churches were Dependent upon 
+<pb n="6" facs="tcp:113091:4"/>their ſeverall Presbyters, and were to obey them who had
+the rule over them, Heb. 13.7,17,24. Or who were their Guides,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Obedite ducibus
+veſtris,</hi> that is Obey your Guides.</p>
+            <p>Fourthly, that this Presbyterian-Church-Government, God hath hath
+appointed as his Ordinance, to be continued to the end of the world, the which
+whoſoever reſiſteth, reſiſteth the Ordi<g ref="char:EOLhyphen"/>nance of God, but it doth not
+prove, That this Presbyterian-Church-Government is Dependent upon a ſupreame
+Judicature of a Common-counſell of Presbyters, or that they muſt ſubmit,
+and ſubject them themſelves and their churches unto the Decrees, Sentences,
+Conſtitutions, and Commandements, of a Common-councell, colledge, and court
+of claſſicall, or Synodall Presbyters, which the Doctor ſhould have
+proved, for ſuch a Presbyterian-Government he intends, as may appeare by the
+Doctors owne words, pag. 17.18. <hi>As for the Preſbyterian Government (in
+the ſence that I underſtand it) there is nothing more cleare to me in all
+the Scripture: Yea the very word and name of Preſbytery ſig<g ref="char:EOLhyphen"/>nifieth, a
+Magiſtracy, or Ariſtocracy, or Signory, or court. And as the word is taken
+in the civill Polity and Government, ſo in the Ec<g ref="char:EOLhyphen"/>cleſiaſticall, by a
+Preſbytery wee underſtand</hi> (ſaith the Doctor) <hi>page</hi> 18. <hi>A
+Religious, Grave, Sollid, Learned, and Wiſe Councell of Divines, Miniſters,
+&amp;c. Without whoſe joynt and mutuall accord, or agreement and
+common-conſent nothing ought to be done or tranſacted of publicke
+concernment. And to make this good,</hi> to wit, That the Presbyters of
+particular congregations or aſſemblies of Beleevers, and their Churches
+ought to be ſubject to a Common-councell or Court of Presbyters. The Doctor
+urgeth that Scripture, the third Epiſtle of John, the 9.10,11. verſes, as
+an invincible Argu<g ref="char:EOLhyphen"/>ment.</p>
+            <p>You ſhall finde it thus expounded by the Doctor pag. 15. 
+<q rend="inline">'And therefore when <hi>Diotrephes</hi>
+aſſumed to himſelf, and his particular congregation a power and authority
+to rule according to his will and pleaſure, without the conſent of the
+Presbyterie, and oppoſed <hi>Iohn</hi> the Presbyter, He ſharply reproves
+his proceedings, and ſig<g ref="char:EOLhyphen"/>nifies to the Church; That when he came he would
+remember<pb n="5" facs="tcp:113091:4"/>his words, and teach him how to prate againſt the
+Presbytery with malicious words; Which is an evill thing in him ſaith St.
+<hi>Iohn.</hi> It was evill in him to aſſume unto himſelf, and his
+parti<g ref="char:EOLhyphen"/>cular congregation, that power that belonged unto the colledge or
+councell of Presbyters, and was to be moderated and exerciſed onely by the
+conjoynt, and common-conſent of the Presbytery. For God hath appointed, that
+the Church ſhould be governed by a Presbytery; and <hi>Diotrephes</hi> would
+have his congregation In<g ref="char:EOLhyphen"/>dependent, and have an abſolute jurisdiction within
+it ſelf, which ſaith St. <hi>Iohn</hi> is an evill thing.</q>
+            </p>
+            <p>Now let the Reader judge, whether the Dr. be not much miſ<g ref="char:EOLhyphen"/>taken
+in his Commentary-expoſition and application of this place of Scripture. And
+let me give you to underſtand, that St. <hi>Iohn</hi> ſaith verſe 9.
+<hi>I wrote unto the Church.</hi> Or as <hi>Beza</hi> upon that verſe,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Scripſi nonnihil
+Eccleſiae,</hi> that is, I have writ<g ref="char:EOLhyphen"/>ten ſomething to the Church. But
+ſeeing no mention is made of any perticular Congregation, how can the Dr.
+ſo confidently af<g ref="char:EOLhyphen"/>firm that it was his particular Congregation? Now the
+Reader may ſee plainly, That the Dr. can expound thoſe Brethren and their
+Elders or Presbyters, which the Scripture calles a Church, to be a particular
+Congregation. And what it was which St. <hi>Iohn</hi> had written to the Church
+is not in this Epiſtle, nor any other Scrip<g ref="char:EOLhyphen"/>ture, declared, except it was, to
+receive thoſe Brethren, which he ſaith verſe 8. ought to be received, and
+verſe 10. whom <hi>Diotrephes</hi> would not receive, how then doth the
+Doctor ſay? <hi>That</hi> Diotre<g ref="char:EOLhyphen"/>phes <hi>aſſumed that power to
+himſelf, which belonged unto the Colledge and councell of Presbyters; without
+whoſe joynt and mutuall agree<g ref="char:EOLhyphen"/>ment, and common-conſent nothing ought to be
+done or tranſacted of publike concernment.</hi> Is the receiving of Brethren,
+or caſting out of Brethren a power which belongs to a Colledge of Presbyters,
+and neither the one nor the other may be tranſacted by the Elders and
+Brethren of a particular congregation, unleſſe the court or common-councell
+of Presbyters conjoyntly conſent unto it? Let it be alſo conſidered, That
+<hi>Diotrephes</hi> oppoſed the Brethren and forbade them, that would have
+received thoſe, who St. <hi>Iohn</hi> ſaith verſe 8. we ought to receive,
+yea and caſt them ought, verſ. 10.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>&amp; volentes (admittere)
+pro<g ref="char:EOLhyphen"/>hibet<pb n="6" facs="tcp:113091:5"/>&amp; de Eccleſia dejicit.</hi> That is, and
+forbiddeth them, that would (or are willing to admit them) and caſteth them
+out of the church, to wit, excommunicates them. Doth it hereby appear that
+<hi>Dio<g ref="char:EOLhyphen"/>trephes</hi> would have his congregation Independent? and have an
+abſolute jurisdiction within it ſelf. No, but <hi>Diotrephes</hi> would
+Lord it over the church, and have the pre-eminence above his brethren, whether
+fellow Elders or fellow Saints, verſe
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſed amans primatum gerere
+in eos Dio<g ref="char:EOLhyphen"/>rephes,</hi> that is, But <hi>Diotrephes</hi> loving the primacie
+amongſt them. He would be the Primate and Metropolitan of the church, and
+have the Pre-eminence of all the Presbyters in it, and Brethren of it. The
+Doctor could have urged this Scripture againſt the domineer<g ref="char:EOLhyphen"/>ing Prelates, and
+why ſhould he marvail, that his Brethren ſhould now urge it againſt the
+court of Presbyters. It is confeſſed <hi>Diotre<g ref="char:EOLhyphen"/>phes</hi> did that which
+was evill in uſurping Authority over the church, and thoſe Brethren, whom
+he caſt out of the church; But that he was the firſt that oppoſed the
+Presbyterian Government, or that he did affront a Court and common-councell of
+Presbyters, is more then I know, or the Doctor can prove. For had
+<hi>Diotrephes</hi> done ſo, why was he not convented before them, ſurely
+the Apo<g ref="char:EOLhyphen"/>ſtle and Elder St. <hi>Iohn</hi> would rather have written to the
+colledge of Presbyters (if there were any ſuch) then to the Church, or in
+writing to the Church, would rather have ſent him a ſummons to appear at
+ſome conſiſtorie before the Court and common-councell of Presbyters, then
+to warne them to take heed of his evill, that they did not follow it: And
+doubtleſſe St. <hi>Iohn</hi> would have writ<g ref="char:EOLhyphen"/>ten thus, <hi>Diotrephes</hi>
+loves to be a Primate among you, wherefore when the Presbyterie that is to
+ſay, the Magiſtracy or Signory of grave, ſolid, learned, religious, and
+wiſe Divines and Miniſters come to keep order, and met together in a Court
+and common-councell, I will remember his deeds, and inform, or complain to the
+Court and common-councell of Presbyters, that he prates againſt us (the
+Presbyters) with malicious words. But the Apo<g ref="char:EOLhyphen"/>ſtle St. <hi>Iohn</hi> (did not
+know any Court or common-councell of Presbyters, neither Claſſicall, nor
+Synod call, to appeal unto) [Nor can the Doctor make good thoſe Appeales he
+mentioneth pag. 10. to be according to the Scripture of Truth, to wit;
+<pb n="7" facs="tcp:113091:5"/>
+               <hi>That every particular man, as well as any Aſſembly or
+Congregation, may have their appeal to the Presbyterie of their Precinct,
+hundred, or deviſion under whoſe jurisdictions they were; And if they finde
+them<g ref="char:EOLhyphen"/>ſelves wronged there, then they have appeales to ſome other higher
+Presbytery or Councell of Divines for relief and juſtice.</hi> I onely ask
+the Doctor how he can prove theſe appeales by Scripture; and if he could,
+whether that higher Presbytery or Councell of Divines, (eſpecially if they
+may ſay the Holy Ghoſt and we) be not as Inde<g ref="char:EOLhyphen"/>pendent as theſe Brethren
+and their Churches, againſt whom the Doctor hath written: And if ſo, then
+ſuch a high Presbytery or Councell of Divines, is not Gods Ordintnce, by the
+Doctors own confeſſion and Affirmation.] Therefore the Apoſtle writes to
+the Church or perticular Congregation whereof <hi>Diotrephes</hi> was a Member
+and an Elder, whom he knew had power to judge him, as well as the Church or
+perticular Congregation of Corinth had power to judge them that were Members
+therein. 1 Cor. 5.12.13. And therefore might as warrantably admoniſh
+<hi>Diotrephes,</hi> as the Church of <hi>Coloſſe</hi> might
+<hi>Arckippus:</hi> Coloſſ. 4.17. 
+<q rend="inline">'And if no<g ref="char:EOLhyphen"/>thing of publike concernment ought to
+bee done or tranſacted without the joynt and mutuall accord or agreement, and
+common conſent of the Presbytery;</q> 
+               <hi>Iohn</hi> the Presbyter would not
+have tranſgreſſed ſo farre, as to take upon himſelf this Authority
+over <hi>Diotrephes</hi> to tell the Church of his faults, and to ſay he
+would remember him and ſharply reprove him, and teach him to prate againſt
+the Presbyterie with malicious words, which belonged to the Court and Common
+Councell of Presbyters: But I ſhall have a juſt occaſion to ſay more
+touching this matter in the anſwer unto the third Queſtion, and therefore
+paſsing by the objection with its anſwer mentioned <hi>page</hi> 19. to the
+29. unto its due place. I ſhall deſire ſeriouſly to conſider the
+Doctors proof of his firſt propoſi<g ref="char:EOLhyphen"/>tion, which he laboureth firſt by
+producing ſuch Scriptures, as he conceiveth make for the manifeſtation of
+the Truth, and from thence frames and formeth his Arguments. 
+<q rend="inline">'His Scriptures are theſe, <hi>viz.</hi> Matth.
+3. verſ. 1.2.5.6. Mark. 6.20.21. Matth. 14.5. and Luk. 20.4.6.</q> And divers
+other Scriptures, which you have at large ſet down in the Doctors Book with
+his Argu<g ref="char:EOLhyphen"/>ments framed from thence, pag. 29. to 82. where this firſt
+propo<g ref="char:EOLhyphen"/>ſition endeth. The ſumme of all which, I ſhall give the Reader to
+underſtand as briefly as I can, to wit; 
+<q rend="inline">'Where there was an infinite<pb n="8" facs="tcp:113091:6"/>multitude of Beleevers, or a very City of Beleevers, ſo that they
+kept a tyrannicall King in awe, and all the Magiſtrates and Elders in whoſe
+hands was all the power and Authority, even a world of Beleevers, with many
+Rulers and men of great place and and Office, with ſuch an increaſe of
+multitudes of Beleevers, 8000 new Converts beſides women and children, yea
+many 10000, of Beleevers, and where there were almoſt an hundred Preachers
+and Miniſters, beſides the 12. Apoſtles, and all theſe continually
+taken up in Prayer and Preaching, There muſt of neceſſitie be ma<g ref="char:EOLhyphen"/>ny
+Congregations and Aſſemblies. But in the Church of Jeruſa<g ref="char:EOLhyphen"/>lem there was
+an infinite multitude of Beleevers, and a very City of Beleevers (which kept
+<hi>Herod</hi> himſelf, the tyrant in awe, and all the Magiſtrates and
+Elders) even a world of Beleevers, with many Rulers and men of great place and
+Office, with an increaſe of multitudes of Beleevers, and 8000. new Converts
+beſides wo<g ref="char:EOLhyphen"/>men and children, yea and many 10000. after all the
+perſecutions, and almoſt an hundred Preachers and Miniſters beſides the
+12 A<g ref="char:EOLhyphen"/>poſtles, and all theſe were continually taken up in Prayer and
+Preaching; <hi>Ergo,</hi> they muſt of neceſſitie be diſpierſed into
+many Congregations and ſeverall Aſſemblies.</q> I do deny the Minor
+pro<g ref="char:EOLhyphen"/>poſition of this Argument. Neither hath the Doctor proved, That there was
+an infinite number of Beleevers, nor a very City of Be<g ref="char:EOLhyphen"/>leevers in the Church of
+Jeruſalem. The Scriptures quoted by the Doctor ſpeakes no ſuch thing;
+thoſe places in <hi>Matthew, Mark</hi> and <hi>Luke,</hi> tell us of very
+many who were baptized by <hi>Iohn,</hi> and by Chriſts Diſciples, but do
+not declare how many of theſe baptized perſons were of the Church in
+Jeruſalem; and the Scripture wit<g ref="char:EOLhyphen"/>neſſeth Acts 9.31. that there were
+Churches throughout all Judaea, as well as in Jeruſalem, and for ought I
+know, or the Doctor ei<g ref="char:EOLhyphen"/>ther, many of thoſe baptized perſons might be in
+theſe Churches, yea the moſt of them, and but a few, it may be no more but
+thoſe 120. mentioned Acts 1.13,14,15. To whom were added about 3000. ſouls,
+who continued in the Apoſtles Doctrine, and fellow<g ref="char:EOLhyphen"/>ſhip, and in breaking of
+bread and in prayers. Acts 2.41.42.44.46. And as for the world of Beleevers
+mentioned in another argu<g ref="char:EOLhyphen"/>ment drawn from Joh. 12.19. behold the world is gone
+after him.<note place="margin">Pag. 37 and 40.</note> That Scripture doth not
+ſay they beleeved in him, much leſſe that there was a world of Beleevers
+in the Church in Ieruſalem. Neither is there mention in any Scripture quoted
+by the Doctor of <pb n="9" facs="tcp:113091:6"/>8000. new Converts beſides women and
+children. Neither doth that Scripture produced Acts 4.4 prove any ſuch thing:
+For the Reader may conſider that the number of them there mentioned are but
+5000. And albeit the Doctor make them up 8000. by ſay<g ref="char:EOLhyphen"/>ing thoſe 5000. men
+were added to the Church, and joyned to the formers Beleevers pag. 57. Yet
+there is a twofold miſtake in the Doctors Addition, to wit; Firſt, that
+ſome of the 3000. (may be) were women, and how then can the Doctor ſay,
+there were 8000. new converts beſides women. Secondly, theſe 5000. are
+onely cal<g ref="char:EOLhyphen"/>led men and not converts, not beleevers. For howbeit many of them
+hearing the Word beleeved, yet it is not ſaid the 5000. men beleeved: And the
+truth is the Text well conſidered only holds forth, that, the number of men
+was made up five thouſand.</p>
+            <p>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp; factus
+eſt numerus viro<g ref="char:EOLhyphen"/>rum, quaſi millia quinque,</hi> and the number of men was
+made about five thouſand, not 8000. And as for the many 10000<abbr>s.</abbr>
+mentioned Acts 21.20. <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> comes of
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>infinitus</hi> (and though
+the word <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> do ſometimes
+ſignifie <hi>numerum decem millium,</hi> yet not alwayes, but for ſome
+great number which cannot ſuddenly be told) as Luke 12 1. And <hi>Beza</hi>
+both according to the old and new verſion of the Greek into Latine, reads it
+<hi>millia</hi> 1000<abbr>s.</abbr> not <hi>decem millia</hi>
+10000<abbr>s.</abbr> and ſo we have it in our Engliſh Bibles tranſlated
+thouſands. And the following verſe 22. will make it probable that there
+were not many 10000<abbr>s.</abbr> for there we thus read; The multi<g ref="char:EOLhyphen"/>tude
+muſt needs come together, ſo that I ſay its probable, that they were not
+ſo many 1000<abbr>s.</abbr> but they could, yea muſt aſſemble
+toge<g ref="char:EOLhyphen"/>ther. Neither can the Dr. make good from thoſe Scriptures he produceth 
+<q rend="inline">'pag. 62. to wit, Acts 1. verſ. 21.22. cap. 6.
+verſ. 2.4. and cap. 8. verſ. 1. That there was almoſt a hundred Preachers
+and Miniſters beſides the 12. Apoſtles in the Church of Jeruſalem.</q>
+The 12. are named indeed in Act. 6.2.4. but not 100. beſides, no nor any one
+Preacher but them 12. And as for the other two places Acts 1.21.22. and Acts
+8.1. there is not any word con<g ref="char:EOLhyphen"/>cerning Preachers or Miniſters, onely ſome
+directions touching the choiſe of <hi>Matthias,</hi> who was one of the 12.
+mentioned Act. 6.2. And although they who were ſcattered preached the Word
+Acts 8.4. yet the Scripture doth not declare that they were Preachers or
+Miniſters of the Church in Jeruſalem.</p>
+            <p>But the Doctor hath one Argument, which is more to the pur<g ref="char:EOLhyphen"/>poſe 
+<pb n="10" facs="tcp:113091:7"/>then all the other, which I deſire the Reader
+ſeriouſly to conſi<g ref="char:EOLhyphen"/>der, pag. 64. he thus further argueth.</p>
+            <p>
+               <hi>That, which the Holy Scripture in expreſſe wordes, and in
+divers places hath declalred unto us, that every Chriſtian is bound to
+beleeve. But the Scripture in expreſſe words, and in diverſe, places hath
+decla<g ref="char:EOLhyphen"/>red unto us, that there were divers aſſemblies, and Congregations of
+Beleevers in the Church of Ieruſalem, and that the Apoſtles, and all the
+Beleevers in Ieruſalem, did continue daily with one accord in the Temple, and
+that they brake bread from houſe to houſe: and that daily in the Temple,
+and in every houſe, they ceaſad not to teach and preach Ieſus
+Chriſt.</hi>
+            </p>
+            <p>Ergo, <hi>There was diverſe congregations, and ſeverall
+aſſemblies, of Beleevers in the</hi> CHURCH <hi>of Ieruſalem, where they
+did duly pertake in all the Ordinances, and injoyed all the acts of
+Worſhip.</hi>
+            </p>
+            <p>Now I doe deſire the Reader to conſider how the Doctor Proves
+his Minor, <hi>which he ſaith is manifeſt from</hi> Acts 2.46. <hi>and
+chap.</hi> 5.12,42. <hi>and chap.</hi> 3.11.12. <hi>and many more places, that
+might be produced, pag.</hi> 64.65.66. In all which diſcourſe, the Dr.
+gives you nothing, but his own ſuppoſitions, and concluſions, for the
+proof of his <hi>Minor</hi> propoſition which is his manner of
+diſcour-throughout his booke.</p>
+            <p>This argument I anſwer; Firſt, by denying the Aſſumption,
+or Minor propoſition, and the reaſon of my denying all, is becauſe the
+Scriptures produced by the Doctor, doe not in expreſſe words declare, that
+there were diverſe aſſemblies, and Congregations of beleevers in the
+Church of Jeruſalem, The Scriptures quoted do in expreſſe words declare
+the contrary to what the Doctor would prove; For, Acts 2.44,46. All that
+beleeved were together, and they continued daily with one accord in the Temple.
+and Acts. 3.11,12. It is expreſſely ſaid; That all the people ranne
+together to them, in the porch, which is called <hi>Solomons.</hi> Act. 5.12.
+And they were all with one accord in <hi>Solomons</hi> Porch. So that theſe
+Scriptures produced by the Doctor to prove, that there were divers
+aſſemblies and Congregations of Beleevers in the Church of Jeruſalem, who
+met together in ſeverall places, at one and the ſame time, to wit, upon the
+firſt day of the week, where they did partake daily in all Ordinances, doth
+expreſly proove the con<g ref="char:EOLhyphen"/>tray, to wit, that the Apoſtles, and all the
+Beleevers in the Church of Jeruſalem, met together with one accord, in one
+place, to wit,<pb n="11" facs="tcp:113091:7"/>the Temple, and in <hi>Solomons Porch,</hi>
+and brake bread from houſe to houſe,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Domatius,</hi> not
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>per ſingulas domos,</hi>
+and thus they did <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<hi>quotidie,</hi> day by day, and they con<g ref="char:EOLhyphen"/>tinued ſtedfaſtly in the
+Apoſtles doctrine, and fellowſhip, and in breaking of bread, and in
+prayers, and all that beleeved were to<g ref="char:EOLhyphen"/>gether, Acts. 2.42,44,46. Yea, the
+Doctor himſelfe ſaith in his <hi>Minor</hi> Propoſition, the latter part
+of it. <hi>That the Apoſtles and all the Beleevers in Ieruſalem did
+continue daily with one accord in the Temple, and that they brake bread from
+houſe to huſe:</hi> And this ſhall ſuffice for refutation of What the
+Docter hath Written touching the firſt Propoſition.</p>
+            <p>The ſecond now followes page 81. viz. That all the
+Congre<g ref="char:EOLhyphen"/>gations and ſeverall Aſſemblies made but one Church. And to this
+the Doctor ſaith, the Brethren themſelves acknowledge, that all Beleevers
+in Jeruſalem were all members of that Church, and they accord further, that
+it was but one Church. And it is mani<g ref="char:EOLhyphen"/>feſt out of the Holy Scripture, Acts
+2.3.45.46. chapters. To which I alſo conſent; But the Brethren have not
+acknowledged, neither hath the Doctor by Scripture proved, that in this one
+Church of Jeruſalem there were averſe Congregations and ſeverall
+Aſſemblies of Beleevers; and therein I muſt mnnifeſt my diſ<g ref="char:EOLhyphen"/>ſent
+from the Doctors opinion, promiſing him, that whenſoever he ſhall
+ſoundly prove it by expreſſe Words of Scripture (which he hath
+undertaken) I will acknowledge it.</p>
+            <p>The third propoſition, which the Doctor comes next to prove, is,
+<hi>That thee Apoſtles and Elders, or Preſbyters governed, and or<g ref="char:EOLhyphen"/>dered,
+and ruled this Church joyntly and by a common councell and Preſbytery,
+pag.</hi> 82. <hi>Which the Doctor ſaith is evident by theſe pla<g ref="char:EOLhyphen"/>ces
+following: Acts</hi> 11.27. <hi>to the end.</hi> The words of this Sccripture
+which the Doctor makes uſe of, to prove his Aſſertion, are theſe,
+Verſe 30. <hi>And ſent it to the Elders by the hands of</hi> Barnabas,
+<hi>and</hi> Saul. <hi>Here in theſe laſt words</hi> (ſaith the Doctor)
+<hi>We ſee, that the Presbyters, and none but the Presbyters received the
+Almes, which ſufficiently proveth, that the Presbyters in all Churches were,
+the men of Government: pag.</hi> 82. It is not denied by the Brethren, that the
+Presbyters in all Churches were the men in the Govern<g ref="char:EOLhyphen"/>ment of the Churches in
+which they are Elders. But this I con<g ref="char:EOLhyphen"/>ceive (by the Doctors favour) doth not
+prove it, to wit; Be<g ref="char:EOLhyphen"/>cauſe the Almes was ſent to the Elders. Much leſſe
+doth that Scrip<g ref="char:EOLhyphen"/>ture<pb n="12" facs="tcp:113091:8"/>prove, that the Apoſtles and
+Presbyters governed and ruled the Church in Jeruſalem by a Common-councell
+and Presbyterie, which is the Aſſertion that the Doctor undertakes to
+prove. <hi>But in the</hi> 15. <hi>Chapter verſe</hi> 2.4.6.22. <hi>and in
+chap.</hi> 16.4. <hi>And in Acts</hi> 21.17,18. <hi>The Preſbyters of
+Ieruſalem by name (ſaith the Doctor pag.)</hi> 83. <hi>are
+expreſſed.</hi> Out of which places of Scripture before the Doctor frame
+his Arguments, he pleaſeth to make a di<g ref="char:EOLhyphen"/>greſſion from page 48. to 90.
+Wherein he highly extols the Preſ<g ref="char:EOLhyphen"/>byters, making them equall with the
+Apoſtles in all the Acts of Church-Governement, (as appeares by the Doctors
+owne words, pag. 88. <hi>I doe verily beleeve (ſaith the Doctor) that the
+Presbyters did act as authoritively as the Apoſtles: and that the
+Preſbyters might as well conclude, It ſeemed good to the Holy Ghoſt and
+to us, as well as the Apoſtles, and not onely the preſbyters, who ſate in
+Coun<g ref="char:EOLhyphen"/>ſell with the Apoſtles, and other preſbyters, who were Ordained
+El<g ref="char:EOLhyphen"/>ders by the Apoſtles; And the Aſſemblie now of Divines, or any other,
+may congregate and meet together in ſome one place, for the deciding of
+controverſies, and differences of opinions in Religion, to ſtate the
+Que<g ref="char:EOLhyphen"/>ſtions, and debate them from Scripture, or warrantable authority and
+evidence of reaſon deduced from thence, and may determine the qeſtion by
+joynt conſent, or by the moſt voyces, and may ſay it ſeemed good to the
+Holy Ghoſt, and us. pag.</hi> 87.88.<note place="margin">Pag. 88.</note>
+               <hi>And that Preſbiters have their authoritie as well grounded in the Word of
+God, as Kings and States have theirs, page.</hi> 89. And the Doctor doth more
+eſpecially extoll the Presbyters of this kingdom in theſe our dais, telling
+what they have deſerved from the Church, Parliament, and Kingdome more then
+any of their Predeceſſors, having ended his Digreſſion, hee gives you
+his Argument, pag. 90. To wit: 
+<q rend="inline">'They that in the holy Scripture are called
+Presbyters, and acted and ordered things in a joynt body, and Common-counſell
+with the Presbyters, and exerciſed that ordinary power committed to them in
+the 18. of <hi>Mattew,</hi> they acted as Presbyters. But the Apoſtles in
+governing the Church of Jeruſalem, conſiſting of many Congregations and
+Aſſemblies, acted and ordered things in a joynt body and Com<g ref="char:EOLhyphen"/>mon councell
+with the Presbytery of that Church, as Presbyters. <hi>Ergo,</hi> the Church of
+Jeruſalem was Presbyterianly governed, and by a Common councell of
+Presbyters. The <hi>Major,</hi> and <hi>Mi<g ref="char:EOLhyphen"/>nor</hi> of this Sillogiſme being
+proved (ſaith the Doctor) the concluſion will neceſſarily enſue.</q>
+I know not that the Brethren<pb n="13" facs="tcp:113091:8"/>ever denied, That the Church of
+Jeruſalem was Presbyterianly go<g ref="char:EOLhyphen"/>verned; And although the Dr. be pleaſed to
+make that his conclu<g ref="char:EOLhyphen"/>ſion, yet (under Reformation be it ſpoke) that
+concluſion doth not follow upon the premiſes. For if the Dr. pleaſe to
+review his Ar<g ref="char:EOLhyphen"/>gument, He ſhall finde, Firſt; that the ſubject of his
+<hi>Major</hi> propo<g ref="char:EOLhyphen"/>ſition is left out both in his <hi>Minor,</hi> and in
+his Concluſion: The firſt part of the Doctors <hi>Minor</hi> ſhould have
+beene this, to witt, But the Apoſtles in the holy Scripture are called
+Presbyters, and who ever denyed this; Alſo the firſt part of the Doctors
+concluſi<g ref="char:EOLhyphen"/>on ſhould have been this, from theſe two premiſes, to witt;
+<hi>Ergo,</hi> The Apoſtles acted as Presbyters which Concluſion is not the
+thing in Queſtion. Secondly, that from the ſecond part of the Doctors two
+propoſitions (to wit, They that acted and Ordered things in a joynt body and
+Common-councell, which the Presbyters, acted as Presbyters; But the Apoſtles
+in governing the Church of Ieru<g ref="char:EOLhyphen"/>ſalem acted and Ordered things in a joynt
+body, and Common-councell with the Presbytery, (or Presbyters either) of that
+Church: <hi>Ergo,</hi> the Apoſtles acted as Presbyters.) This ſhould have
+been the Doctors concluſion.</p>
+            <p>Now the truth is, though the Apoſtles were called Presbyters in
+the Scripture, yet it followeth not, that they acted as Presbyters, but as
+Apoſtles Acts 15. And they cannot therein be a pattern and preſident for
+Presbyters; Firſt, becauſe the Apoſtles had the care and charge of and
+over all Churches. 2 Cor. 11.28. But the Preſ<g ref="char:EOLhyphen"/>byters had the care and
+overſight of ſome one Church onely, as Epheſus Acts 20.28. or Philippi,
+Phil. 1.1. and this the Dr. often inſerts in his Book. That all the Churches
+we read of in the new Teſtament (though they were Presbyterially governed)
+were de<g ref="char:EOLhyphen"/>pendent upon their ſeverall Presbyters, pag. 12.<note place="margin">Pag. 12.</note> And ſecondly, becauſe this would make the
+Presbyters Independents indeed, for ſo the Apoſtles were in the Government
+of all the Churches; The Presbyters of Jeruſalem, of Epheſus, and of all
+the Churches were dependent upon the Apoſtles, and the Apoſtles onely
+depended on Chriſt, by whoſe holy ſpirit, they were all alwayes guided in
+the go<g ref="char:EOLhyphen"/>vernment of their Churches, and therefore they ſaid Acts 15.28. It
+ſeemed good to the Holy Ghoſt and us. And though the Doctor ſay the
+Presbyters might ſay ſo, as well as the Apoſtles becauſe the Elders or
+Presbyters are mentioned there: The Dr. might have alſo conſidered that the
+Brethren, even the whole church, the multitude (how many ſoever the D. can
+make of them) were preſent as wel as<pb n="14" facs="tcp:113091:9"/>the Presbyters. Acts
+15.4.12.22.23.25.27.28. And ſo have made the Brethren, the multitude, even
+the whole Church Independent alſo; and the Dr. might as well have affirmed,
+that the Brethren even the whole Church might ſay, It ſeemed good to the
+Holy Ghoſt and to us.</p>
+            <p>To the fourth propoſition; 
+<q rend="inline">'That the Church of Jeruſalem and the Government
+of the ſame, is to be a pattern for all Congregations and Aſſemblies in
+any City or vicinity to unite into one Church, and for the Officers and
+Presbyters of thoſe congregations to go<g ref="char:EOLhyphen"/>vern that Church joyntly in a
+Colledge or Presbytery. pag. 97.</q> And for the proof of this fourth
+Propoſition, the Doctor ſaith; 
+<q rend="inline">'That all men acknowledge, that the mother Church
+muſt give an example of Government to all the Daughter Churches. Neither do
+the Brethren deny (ſaith the Dr.) but the Government of the Church of
+Jeruſalem muſt be the pattern of Government to all Churches.</q> But the
+Dr. knowes, that the Brethren deny that the Church of Ieruſalem conſiſted
+of divers Congregations and ſeverall aſſemblies under a Common-councell,
+Conſiſtory, Colledge, or Court of Presbyters. And this they have not
+granted, neither hath the Doctor proved. And this may be ſufficient to be
+ſaid in anſwer to the four Propoſitions touching the firſt
+queſtion.</p>
+            <p>And now I come to the ſecond Queſtion, which is concerning the
+manner of gathering of Churches, and admitting of Members and Officers pag. 98.
+which Queſtion the Dr. thus ſtates, <hi>viz.</hi> 
+               <q rend="inline">'Whether Miniſters of the Goſpell may, out of
+already gathered aſſemblies of Beleevers, ſelect and chuſe the moſt
+principle of them into a Church-fellowſhip peculiar unto themſelves, and
+ad<g ref="char:EOLhyphen"/>mit of none into their ſociety,</q> but ſuch as ſhall enter in by a
+pri<g ref="char:EOLhyphen"/>vate Covenant, and are allowed by the conſent, and approbation of all the
+Congregation? And this Queſtion the Doctor brancheth into ſixe Queries pag.
+98.99. Wherein the judicious Reader may perceive the Doctor (through
+miſ-information I conceive) hath miſtaken the ſtateing of the Queſtion,
+which he partly acknow<g ref="char:EOLhyphen"/>ledgeth pag. 100.</p>
+            <p> 
+               <q rend="inline">'But now I ſhall ſet down (ſaith the Dr.
+pag. 100) Gods me<g ref="char:EOLhyphen"/>thod and the Apoſtles practice in gathering of Churches,
+and the manner they uſed in making Members in every Church, and com<g ref="char:EOLhyphen"/>pare it
+with the method our Brethren (the Independents) uſe, &amp;c.
+<pb n="15" facs="tcp:113091:9"/>And to this purpoſe the Doctor begins with Chriſts
+commiſsion, Matth. 28.19,20. and Mark. 16.15,16. and Acts
+26.15,16.17,18,19,20.</q>
+            </p>
+            <p>Out of theſe ſeverall Scriptures the Doctor obſerves theſe
+three things, pag. 101. and 102. To wit, Firſt, 
+<q rend="inline">'That they ſhould teach no other things but what
+Chriſt commanded them, and appeared to them in, and for which thy had his
+Word and war<g ref="char:EOLhyphen"/>rant. Secondly, the condition, which they were to pro<g ref="char:EOLhyphen"/>pound unto
+all nations and people, upon which they were ad<g ref="char:EOLhyphen"/>mitted into the Church, was
+Faith, Repentance, and Baptiſme. And thirdly, that this commiſſion was
+delivered onely to the Apoſtles and Miniſters of the Goſpel, that they
+ſhould admit whoſoever beleeved, and were baptized; And they that beleeved
+not would not be baptized, were not to be admitted. Theſe are the Doctors
+owne words, page 102. and page. 103. The Doctor for proofe quotes the third
+Chapter of Matthew, and Luke 3.7. And the ſum of <hi>Iohns</hi> preaching
+(ſaith the Dr.) is mentioned, verſe 3. It was the baptiſme of Repentance
+for the Remiſſion of ſinnes. Alſo he there cites Luke 7.29. That all
+the people that heard him, and the Publicans juſtified God, being Baptized
+with the Baptiſme of <hi>Iohn;</hi> But the Phariſees and the Lawyers
+re<g ref="char:EOLhyphen"/>jected the councell of God againſt themſelves, being no Bap<g ref="char:EOLhyphen"/>tized of
+him. page 103.104. But now to go on (ſaith the Dr. pag 104.) after the
+Reſurrection and Aſſenſion of Chriſt, &amp;c. Where he quotes, Acts
+2.37,38. Then they that gladly recei<g ref="char:EOLhyphen"/>ved the Word were Baptized, and the ſame
+day were added unto them about three thouſand ſoules.</q>
+            </p>
+            <p>Hence the Doctor obſerves, that the Apoſtles propounded no
+other condition or termes for the making all and every one of them members of
+the Church, but Repentance and Baptiſme, <hi>The which, when the people had
+accepted of (ſaith the Doctor) They were forthwith admitted, &amp;c.
+page.</hi> 104. For another proofe the Doctor produceth, Acts 10.44,47,48.
+Where the Doctor affirm<g ref="char:EOLhyphen"/>eth, page 106. <hi>That thoſe Brethren who came
+with</hi> Peter <hi>did not intermeddle in that buſineſſe, to wit, of
+their admittance (by Baptiſme) into the Church.</hi> Now I conceive the
+reaſon, why thoſe Brethren did not intermeddle to hinder their admittance
+to that Ordi<g ref="char:EOLhyphen"/>nance<pb n="16" facs="tcp:113091:10"/>of Jeſus Chriſt, (to wit, Baptiſme
+in water) and ſo to an en<g ref="char:EOLhyphen"/>trance into the Church; was, not becauſe they had
+not ſuch Liber<g ref="char:EOLhyphen"/>tie, but becauſe the Brethren had no juſt objections or
+kindrance to declare to <hi>Peter.</hi>
+            </p>
+            <p>That the Brethren had a liberty to have declared any thing, which
+might juſtly have hindred the adminiſtration of that Ordi<g ref="char:EOLhyphen"/>nance of
+Baptiſme unto them, doth appeare by the Queſtion which the Apoſtle
+expounded. verſe 47. <hi>Can any man forbid water that theſe ſhould not
+be baptized?</hi> 
+               <q rend="inline">'And the Dr. himſelfe acknowledg<g ref="char:EOLhyphen"/>ed, pag. 102.
+That the Brethren or Diſciples of the Church of Jeruſalem (who muſt be a
+patterne (ſaith the Dr.) of all churches) had this libertie to except
+againſt ſome ſorts of perſons, and hin<g ref="char:EOLhyphen"/>der their admittance into the
+church, though baptized according to Chriſts Commiſſion, and Preachers
+choſen and ſent by Chriſt himſelfe. And that in caſe ſuch perſons
+have been formerly known to be open Enemies, and perſecuters of the church,
+and then they are juſtly to bee ſuſpected (ſaith the Dr. page. 102.)
+untill they have given publike Evidence by witneſſe to the Miniſters of
+their true Converſion,</q> and there produceth a plaine inſtance to prove
+this page 102. Acts. 9.26,27,28. <hi>And when</hi> Saul <hi>was come to
+Ieruſalem</hi> (<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> tentabat jungi)
+<hi>he aſſayed to joyne him<g ref="char:EOLhyphen"/>ſelfe to the Diſciples, but they were all
+afraid of him, and beleeved not that hee was a Diſciple, &amp;c.</hi>
+            </p>
+            <p>Now this liberty have all the diſciples in the like caſe,
+becauſe Ie<g ref="char:EOLhyphen"/>ruſalem the Mother church is the pattern of all other the
+Daughter Churches, as the Doctor confeſſeth, yea affirmeth, page 97.
+<hi>And ſaith, all men acknowledge, That the Mother Church muſt give an
+example of government to all the Daughter churches. And this is alſo by the
+Doctor acknowledged, page</hi> 102. <hi>to be a part of the power of the Keyes,
+to open and ſhut the doores of the Church; that is, to ad<g ref="char:EOLhyphen"/>mit ſuch as are
+for their Faith, Knowledge and Repentance ſufficiently qualified, and fitted
+to be made members, and to refuſe ſuch, as are not fit to be recived into
+the fellowſhip of the church; either for their Ignorance or other ſins and
+offences, &amp;c.</hi> Now, then when it doth evidently appear. That the
+Diſciples or Brethren (not to ſay Si<g ref="char:EOLhyphen"/>ſters, though they are Diſciples
+alſo) of the Church in Jeruſalem (in her moſt flouriſhing condition)
+had this libertie to declare<pb n="17" facs="tcp:113091:10"/>their feares, and the ground
+thereof againſt <hi>Paul,</hi> who was at that time a Beleever, a Baptized
+perſon, &amp; a Preacher, or miniſter of the Goſpell, ſo that although,
+hee came, and aſſayed, to be joy<g ref="char:EOLhyphen"/>ned to the Diſciples, and be admitted a
+member among them, that he might have fellowſhip with them in the worſhip,
+and or<g ref="char:EOLhyphen"/>dinances of the Goſpell: Yet was thereby hindered from admit<g ref="char:EOLhyphen"/>tance
+untill <hi>Barnabas</hi> witneſſed his condition and converſation to the
+Apoſtle, and then he was with them coming in &amp; going out at Jeruſalem.
+How can the Doctor make good, that 
+<q rend="inline">'The Presby<g ref="char:EOLhyphen"/>ters alone without the conſent of
+Brethren may admit members, and caſt out members, and that the Brethren or
+the congregation hath nothing to doe to hinder any ſuch thing, page
+102.106.</q>
+            </p>
+            <p>For further proof hereof: 
+<q rend="inline">'The Doctor urgeth <hi>Act.</hi> 8.35. to 40. The
+example of the Eunuch, to whom <hi>Philip</hi> being ſent preached Jeſus,
+and Baptiſme in his Name, and it is related, That when they came to a
+certaine water the Eunuch ſaid unto him; <hi>See here is Water? What doth
+hinder me to be Baptized? And</hi> Philip <hi>ſaid, If thou beleeveſt with
+all thy heart thou mayeſt,</hi> 
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>licet,</hi> And he anſwered and ſaid, I beleeve that Jeſus Chriſt
+is the Son of God: And he commanded the Charet to ſtand ſtill; And they
+went downe both into the water, both <hi>Philip</hi> and the Eunuch, and he
+Baptized him. Here we ſet (ſaith the Doctor) that PHI<g ref="char:EOLhyphen"/>LIP admits him into
+the number of beleevers, and makes him a member of the Church. But the Doctor
+ſaith, this was without conſulting with the Congregation, by his owne
+authority, and upon the Eunuch his own teſtimonie, pag. 106.</q>
+            </p>
+            <p>I anſwer, that PHILIP had a ſpeciall command from God for what
+he did herein, and ſo had <hi>Ananias, Act.</hi> 9.15. touching
+<hi>Saul,</hi> which is the next Inſtance which the Doctor brings in this
+ſame 106. pag. And albeit the Doctor affirme; 
+<q rend="inline">'That ANANIAS did not ſay to SAUL, I will
+conſult with the Church to ſee whither they will admit thee to be a member,
+for thou haſt greatly waſt<g ref="char:EOLhyphen"/>ed the Church, and made havock of the Saints,
+and therefore I will have their approbation, and conſent, and thou ſhalt
+give in evidences of thy true Converſion, &amp;c.</q> And ſo be received
+and admitted.</p>
+            <p>
+               <pb n="18" facs="tcp:113091:11"/> 
+               <q rend="inline">'But without all this ado (ſaith the Dr. pag.
+107.) he baptized <hi>Paul,</hi> and admitteth him into the number of
+Beleevers, and makes him a Member of the Church.</q> Yet if the Reader look
+back into the 102. page of his Book, The Dr. there makes an exception from the
+power which he a little before had affirmed the Presbyters have to admit
+Members, by vertue of Chriſt his commiſſion, upon the profeſſion of
+their faith and repentance, and receiving bap<g ref="char:EOLhyphen"/>tiſme, without any further
+Teſtimony; 
+<q rend="inline">'Unleſſe (ſaith the Dr.) they had been
+formerly known to be open enemies, and perſecu<g ref="char:EOLhyphen"/>tors of the Church, and then
+they were juſtly to be ſuſpected, till they had given publike evidence by
+witneſſe of their true con<g ref="char:EOLhyphen"/>verſion: And gives an inſtance in
+<hi>Paul,</hi> who for a time the Diſ<g ref="char:EOLhyphen"/>ciples feared Acts 9.26.27. till they
+had better information, and proof, that he now preached the faith, that he had
+once perſecu<g ref="char:EOLhyphen"/>ted, and had ſuffered for it, pag. 102.</q> To rehearſe all
+the Scriptures alledged to prove this method of God and practiſe of the
+Apoſtles were needleſſe. But paſſing by ſuch as are not ſo plain
+and clear for the proof thereof, and alſo omitting, what the Doctor hath
+ſaid touching the Brethren, in comparing their practiſe with the
+Apoſtles: Becauſe the Dr. is miſtaken in ſtateing the Queſtion, and
+alſo in his Queries, as before I mentioned in the 14 page of this my
+anſwer, and the Reader may ſee pag. 98 99. and 100. of the Doctors Book. I
+ſhall give the Reader the reſult of all, that the Dr. hath written from
+pag. 100. to the end of his Book, touching Gods method, and the Apoſtles
+practice in gathering of Churches and admitting Members, <hi>viz.</hi> 
+               <q rend="inline">'Firſt, That Chriſt having given a
+Commiſſion to his Apoſtles to teach all Nations, and baptize them, Matth.
+28.19.20. Mark. 16 15 16. the Apoſtles practiſed accordingly. <hi>Acts</hi>
+2.37.38. <hi>Acts</hi> 10.44.45.46.47.48. and ſo did Philip <hi>Acts</hi>
+8.35.36.37.38. and Ananias <hi>Acts</hi> 9.10.18. Secondly, That the condition
+or tearmes, which they were to propound unto all Nations and people upon which,
+they were to be admitted into the Church, were Faith, Repentance, and
+Bap<g ref="char:EOLhyphen"/>tiſme. Mark. 16.15,16. For the commiſſion was delivered to the
+Apoſtles, that they ſhould admit whoſoever beleeved, and would be
+baptized, and they, that beleeved not, and would not be bap<g ref="char:EOLhyphen"/>tized, were not to
+be admitted, pag. 102. and pag. 104. The Apo<g ref="char:EOLhyphen"/>ſtles<pb n="13" facs="tcp:113091:11"/>(ſaith the Dr.) propounded no other condition or tearmes for making
+all and every one Members of the Church but Repen<g ref="char:EOLhyphen"/>tance, and Baptiſme,
+<hi>Acts</hi> 2.37.38. Thirdly, that the Apoſtles and all ſucceeding
+Miniſters of the Goſpell ſhould admit whoſo<g ref="char:EOLhyphen"/>ever beleeved, and were
+baptized, to be Members of the Church, and teach them to obſerve no other
+things but what Chriſt com<g ref="char:EOLhyphen"/>manded them, and for which they had his Word and
+warrant: pag. 101. and 102. Matth. 28.19.20. And this (ſaith the Dr.) the
+Apoſtles did practice, without requiring them to take a pri<g ref="char:EOLhyphen"/>vate covenant, or
+enter into the Church by way of a particular covenant, pag. 105. <hi>Acts</hi>
+2.37.38.</q> This being the ſumme and reſult of that method and practice,
+which the Dr. conceives ſhould be done in gathering Churches and admitting
+Members, which the Scriptures will warrant, and Chriſt Jeſus approve of as
+his fathers will, I ſhall now take liberty to declare, what I know by mine
+own experience to be the practice of ſome Churches of God in this City. That
+ſo both the Dr. and the Reader may judge how near the Saints, who walk
+together in the Fellowſhip of the Goſpell do come in their practice, to
+theſe Apoſtolicall rules and practice propounded by the Dr. as Gods method
+in gathering Churches, and admitting Members. I ſay, that I know by mine own
+experi<g ref="char:EOLhyphen"/>ence (having walked with them) That they were thus gathered;
+<hi>viz.</hi> Some godly and learned men of approved guifts and abilities for
+the Miniſterie, being driven out of the Countries, where they lived by the
+perſecution of the Prelates, came to ſojourn in this great City, and
+preached the Word of God both publikely, and from houſe to houſe, and daily
+in the Temples and in every houſe, they ceaſed not to teach and preach
+Jeſus Chriſt: and ſome of them have dwelt in their own hired houſes,
+and received all that came in unto them, preaching the Kingdome of God, and
+teaching thoſe things, which concern the Lord Jeſus Chriſt. 
+<note place="margin">Matth. 28.18.19.20. Mark. 16.15. Act. 8.4.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.19 20.21.22. Act. 10.20.21. Act. 5.42. Act. 28.23.30.31.
+Acts 17.1.2,3,4,5. Acts 17.5.11,12. Acts 2.38.40,41,42.</note> And when many
+ſinners were converted by their preaching of the Goſpell, ſome of them
+that beleeved, conſorted with them, and of profeſſors a great many, and
+of the chief women not a few. And the condition which thoſe Preachers both
+publikely and privately propounded to the people, unto whom they Preached, upon
+which they were to be admitted into the Church was Faith, Repentance, and
+Bap<g ref="char:EOLhyphen"/>tiſme;<pb n="20" facs="tcp:113091:12"/>and none other. And whoſoever (poor as well
+as rich, bond as well as free, ſervants as well as Maſters) did make a
+profeſſion of their Faith in Chriſt Jeſus, and would be baptized with
+water into the Name of the Father, Sonne, and Holy Spirit, were admit<g ref="char:EOLhyphen"/>ted
+Members of the Church; but ſuch as did nor beleeve, and would not be baptized
+they would not admit into Church-com<g ref="char:EOLhyphen"/>munion. 
+<note place="margin">Act. 16.30,31,32,33. Acts 8.35.37.38,39. Acts
+8.12. Acts 18.8.</note> This hath been the practice of ſome Churches of God
+in this City, without urging or making any particular covenant with Members
+upon admittance, which I deſire may be examined by the Scriptures cited in
+the Margent, and then compared with the Doctors three concluſions from the
+ſame Scriptures, whereby it may appear to the judicious Reader, how near the
+Churches ſome of them come to the practice of the Apoſtles rule, and
+practice of the primitive Churches, both in gathering, and admitting Mem<g ref="char:EOLhyphen"/>bers.
+And my humble requeſt to the Doctor is; That he will uſe all meanes, that
+the method of God, and practice of the Apoſtles in gathering of Churches, and
+admitting Members, may be con<g ref="char:EOLhyphen"/>ſcionably practiſed by his Brethren of both
+ſides according to the revealed Word and Will of the Father.</p>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:113091:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
